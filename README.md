@@ -2,5 +2,5 @@
 
 Cat presses keyboard when you do.
 
-> [!warning]
+> [!important]
 > It only works when the window is focused so its not really usefull
